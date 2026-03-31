@@ -5,22 +5,19 @@
 
 ## Test Execution Summary
 Total Test Cases: 6
-Passed: 5
-Failed: 1
+Passed: 6
+Failed: 0
 Blocked: 0
 
 ## Bugs Identified
 
-1
+0
 
 ## Defects Found
-High: 1
+High: 0
 Medium: 0
 Low: 0
 
-## Summary 
-Cart functionality was tested for adding, updating, and removing products. Most features worked correctly. An issue was found with cart total calculation after updating quantity.
-
 ## Conclusion
 
-Cart module is mostly stable with one major issue identified. Fix is recommended before proceeding to checkout testing.
+Search functionality is working as expected. The module is stable for further testing.
